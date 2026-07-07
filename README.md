@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Raviteja Gooduru  👋
+*Python Full-Stack Developer* — • React • SQL • REST APIs • Docker • CI/CD
 
-<!--
-**goodururaviteja-0722/goodururaviteja-0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current project: *ToDO APP* (Auth + Django + MySQL)
+✅ I write tests with pytest and use GitHub Actions (CI)
+🌱 Learning: caching, async, system design basics
+🌐 Portfolio/LinkedIn:  https://www.linkedin.com/in/goodururaviteja22 
 
-Here are some ideas to get you started:
+Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, REST API, Django, React, JavaScript, HTML/CSS, PostgreSQL, Git, Docker, , GitHub Actions
+
+Projects
+1. ToDO App – Auth, search, tests, CI
+3. E-Commerce App – Django + REST API  + React
